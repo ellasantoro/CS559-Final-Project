@@ -1,0 +1,67 @@
+Wisc ID: isantoro
+GitHub ID: ellasantoro
+
+[X] correct P2 Canvas Assignment submission [none]: 
+[X] clear explanations in p2-workbook.txt [none]: 
+[X] correct P2G Canvas Assignment submission on time [none]: 
+[X] program runs (or seems to run correctly - worth looking at error console) [final-grtown]: 
+[X] frame rate seems OK (not too slow) [final-grtown]: 
+[X] UI is there and seems to work (can lookat and ride) [final-grtown]:
+[X] highlight list looks OK [final-grtown]: Lookat list is VERY crowded, but my highlight list is clean.
+[X] visually distinct from example [final-grtown]: 
+[X] theme makes sense (need explanation) [final-grtown]: My town is a medieval town. If unfamiliar, google has some great images with it!
+[X] cool theme bonus (need explanation) [final-grtown]: I think my theme is pretty cool and I had a lot of fun designing things and making sure everything fits in cohesively.
+[X] objects created for this assignment 1, not trivial, can be identified in world (need explanation) [final-grtown]: House style 2 (medievalbuilding.js)
+[X] objects created for this assignment 2, not trivial, can be identified in world (need explanation) [final-grtown]: Clock tower (clocktower.js)
+[X] 5 more kinds of objects 1, not trivial, can identify (need explanation) [final-grtown]: House style 1 (medievalhouse.js)
+[X] 5 more kinds of objects 2, not trivial, can identify (need explanation) [final-grtown]: Castle (castle.js)
+[X] 5 more kinds of objects 3, not trivial, can identify (need explanation) [final-grtown]: Windmill (windmill.js)
+[X] 5 more kinds of objects 4, not trivial, can identify (need explanation) [final-grtown]: Carriage (carriage.js)
+[X] 5 more kinds of objects 5, not trivial, can identify (need explanation) [final-grtown]: House Style 3 (medievalstructure.js)
+[X] has building, natural, vehicle (need explanation) [final-grtown]: all 3 types can be found in the folders with the names "natural", "buildings", and "vehicles". For natural I have trees, wheat, and flowers,
+    for buildings I have clocktower, 3 house styles, windmill, and castle, and for vehicle I have a boat and a carriage
+[X] loaded model (need explanation) [final-grtown]: used GLTF loader for market stall and for trees
+[X] shader: identifiable and not trivial (need explanation) [final-grtown]: Lake shader (this is my advanced shader, Professor Wu said I could use it for both my basic and advanced pts)
+[X] three behaviors you made 1, not trivial, can be identified in scene (need explanation) [final-grtown]: Crows flying in a path in the sky and having movement that makes them look like they are flying
+[X] three behaviors you made 2, not trivial, can be identified in scene (need explanation) [final-grtown]: Clocktower - minute and hourhand work like a clock, when the hour hits the top, a bell raises out from the top, begins ringing for a few 
+    seconds, and then lowers until it hits the top again (please note that when it makes a half rotation it looks like it hits the top, but it needs to make a FULL rotation for the bell to come up).
+[X] three behaviors you made 3, not trivial, can be identified in scene (need explanation) [final-grtown]: Boat traveling across the lake and turning around smoothly if it hits a corner
+[X] at least one object is rideable / followable [final-grtown]: Boat can be ridden
+[X] behavior that is not simple (need explanation) [final-grtown]: Clocktower behavior is not simple and requires many different aspects to make sure it works smoothly with time elapsed and to use tolerance to ensure the bell can be raised
+[X] articulated figure (need explanation) [final-grtown]: Windmill - smaller white wings rotate relative to the wooden sticks (Professor Wu said on piazza this counts for basic points even with only 2 degrees of freedom)
+[X] advanced thing 1: has a challenge type (need the name and number from the list) [final-grtown]: Name: Particle System, Number: 4 ; I have "pixie" dust type particles that can be found in my particles folder.
+[X] advanced thing 1: works properly, can be identified in the town (need explanation) [final-grtown]: I believe it works properly as it looks visually like pixie dust or fairy particles floating around
+[ ] advanced thing 1: points above and beyond (need explanation) [final-grtown]: 
+[X] advanced thing 2: has a challenge type (need the name and number from the list) [final-grtown]: Name: Animated Shader Effect, Number: 5 ; I made a flowing water shader for my lake
+[X] advanced thing 2: works properly, can be identified in the town (need explanation) [final-grtown]: I believe it works properly because with the moving lighting it looks as though it is flowing water even though it oscillates back and forth using an image.
+[ ] advanced thing 2: points above and beyond (need explanation) [final-grtown]: 
+[ ] advanced thing 3: has a challenge type (need the name and number from the list) [final-grtown]: 
+[ ] advanced thing 3: works properly, can be identified in the town (need explanation) [final-grtown]: 
+[ ] advanced thing 3: points above and beyond (need explanation) [final-grtown]: 
+[ ] advanced thing 4: has a challenge type (need the name and number from the list) [final-grtown]: 
+[ ] advanced thing 4: works properly, can be identified in the town (need explanation) [final-grtown]: 
+[ ] advanced thing 4: points above and beyond (need explanation) [final-grtown]: 
+[ ] advanced thing 5: has a challenge type (need the name and number from the list) [final-grtown]: 
+[ ] advanced thing 5: works properly, can be identified in the town (need explanation) [final-grtown]: 
+[ ] advanced thing 5: points above and beyond (need explanation) [final-grtown]: 
+
+If you have loaded any geometry from OBJ files, use the space below to credit your source for each file. Be sure to include a confirmation that you are permitted to use this asset (e.g., it is released under a Creative Commons license).
+
+You can follow this format, or something similar:
+
+- an-example-file.obj
+  - source: https://graphics.cs.wisc.edu/Courses/559-sp2021/
+  - author: username123
+ - license: CC BY 2.0
+
+ for GLTF files: (also sourced in the main file where they are used)
+ - fur_tree -> scene.GLTF
+ - source: https://sketchfab.com/3d-models/fur-tree-41fa3210e50944eaa489c148e5e2ccc7
+ - author: HarriJones23
+
+ - medieval_stall
+ - source: https://sketchfab.com/3d-models/medieval-stall-4a5a40e78e4b481bafbb576303f992cd
+ - author: Cyril43
+
+
+
